@@ -303,6 +303,28 @@
           "sha256": "e52c8678f7c3e1ba56bcc66e5ee0e026ba507a6dc4ea1179faeba7917c659358"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566559799859220612",
+      "committed": true,
+      "posted_at": "2026-11-01 21:09 UTC"
+    },
+    "p2-part-6-strategy": {
+      "phase": 2,
+      "order": 15,
+      "title": "P2 · Part 6 Strategy — Text Completion",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P2-reference/part-6-strategy.md",
+          "sha256": "104a3516b2752cb3547d717da8deda6d0f1eef19bcf959e008deedbc29c42738"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -481,6 +503,19 @@
     "P2-reference/part-5-strategy.md": {
       "unit": "p2-part-5-strategy",
       "sha256": "e52c8678f7c3e1ba56bcc66e5ee0e026ba507a6dc4ea1179faeba7917c659358",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566559799859220612"
+    },
+    "P2-reference/part-6-strategy.md": {
+      "unit": "p2-part-6-strategy",
+      "sha256": "104a3516b2752cb3547d717da8deda6d0f1eef19bcf959e008deedbc29c42738",
       "bands": [
         "B1",
         "B2",
