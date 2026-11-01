@@ -17,9 +17,10 @@
           "sha256": "781da44fb27501f927b074a5374add48c3b18a562df149ab0b52848a1da4e735"
         }
       ],
-      "pushed": false,
-      "discord_message_id": null,
-      "committed": true
+      "pushed": true,
+      "discord_message_id": "1566547535466594395",
+      "committed": true,
+      "posted_at": "2026-11-01 20:20 UTC"
     },
     "format": {
       "phase": 1,
@@ -38,6 +39,28 @@
           "sha256": "21f3c6d2701f99614524c71e42fad7405082c958cf3221b938979bb5940d12b1"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566547544367169677",
+      "committed": true,
+      "posted_at": "2026-11-01 20:20 UTC"
+    },
+    "p1-start-1": {
+      "phase": 1,
+      "order": 3,
+      "title": "P1 · START HERE 1/3 — What to Learn First",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P1-orientation/00-START-HERE-1-what-to-learn-first.md",
+          "sha256": "1ddf5e5187cec77c9e5729c7e75d9df28c9a3a33d3a8379e964dfcb1bb7690c4"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -54,12 +77,25 @@
         "B4",
         "B5"
       ],
-      "pushed": false,
-      "discord_message_id": null
+      "pushed": true,
+      "discord_message_id": "1566547535466594395"
     },
     "FORMAT.md": {
       "unit": "format",
       "sha256": "21f3c6d2701f99614524c71e42fad7405082c958cf3221b938979bb5940d12b1",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566547544367169677"
+    },
+    "P1-orientation/00-START-HERE-1-what-to-learn-first.md": {
+      "unit": "p1-start-1",
+      "sha256": "1ddf5e5187cec77c9e5729c7e75d9df28c9a3a33d3a8379e964dfcb1bb7690c4",
       "bands": [
         "B1",
         "B2",
