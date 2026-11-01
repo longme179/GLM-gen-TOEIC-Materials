@@ -237,6 +237,28 @@
           "sha256": "467c55a2e4d8ee7cbe5952b4b7f96a5a67bc52da0910ad74f34982baa74acb81"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566559735661068340",
+      "committed": true,
+      "posted_at": "2026-11-01 21:09 UTC"
+    },
+    "p2-part-3-strategy": {
+      "phase": 2,
+      "order": 12,
+      "title": "P2 · Part 3 Strategy — Conversations",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P2-reference/part-3-strategy.md",
+          "sha256": "11e727a658a07b515cab6d66a29450e4c13e2680ecdf244f7cce8bd34f9eb1b2"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -376,6 +398,19 @@
     "P2-reference/part-2-strategy.md": {
       "unit": "p2-part-2-strategy",
       "sha256": "467c55a2e4d8ee7cbe5952b4b7f96a5a67bc52da0910ad74f34982baa74acb81",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566559735661068340"
+    },
+    "P2-reference/part-3-strategy.md": {
+      "unit": "p2-part-3-strategy",
+      "sha256": "11e727a658a07b515cab6d66a29450e4c13e2680ecdf244f7cce8bd34f9eb1b2",
       "bands": [
         "B1",
         "B2",
