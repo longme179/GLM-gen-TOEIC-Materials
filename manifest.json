@@ -127,6 +127,28 @@
           "sha256": "a82d3d14dc487abfe8af1f56216d85c1c21de0d5b5a66c51eb1a94272b4b6424"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566554387625676811",
+      "committed": true,
+      "posted_at": "2026-11-01 20:47 UTC"
+    },
+    "p1-calendar": {
+      "phase": 1,
+      "order": 7,
+      "title": "P1 · The 30-Day Calendar",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P1-orientation/02-thirty-day-calendar.md",
+          "sha256": "aa9ce11f1cc8693127855a312ef536bcaa97e14ce6705cbed97d914252574bf5"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -201,6 +223,19 @@
     "P1-orientation/01-test-anatomy.md": {
       "unit": "p1-anatomy",
       "sha256": "a82d3d14dc487abfe8af1f56216d85c1c21de0d5b5a66c51eb1a94272b4b6424",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566554387625676811"
+    },
+    "P1-orientation/02-thirty-day-calendar.md": {
+      "unit": "p1-calendar",
+      "sha256": "aa9ce11f1cc8693127855a312ef536bcaa97e14ce6705cbed97d914252574bf5",
       "bands": [
         "B1",
         "B2",
