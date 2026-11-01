@@ -589,6 +589,28 @@
           "sha256": "f266d120cf81ab7db02f9a8df3ffbf3bb06c80163c378b037ff9d580c509586c"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566563798054215792",
+      "committed": true,
+      "posted_at": "2026-11-01 21:25 UTC"
+    },
+    "p3-day-04": {
+      "phase": 3,
+      "order": 28,
+      "title": "P3 · Day 04 — Part 5 Core I: Word Forms & Agreement",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P3-daily-plan/day-04.md",
+          "sha256": "5ae844e308d4ed98d8ccfea28d6eea09bf7a09920c3579c95669ec173496e189"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -936,6 +958,19 @@
     "P3-daily-plan/day-03.md": {
       "unit": "p3-day-03",
       "sha256": "f266d120cf81ab7db02f9a8df3ffbf3bb06c80163c378b037ff9d580c509586c",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566563798054215792"
+    },
+    "P3-daily-plan/day-04.md": {
+      "unit": "p3-day-04",
+      "sha256": "5ae844e308d4ed98d8ccfea28d6eea09bf7a09920c3579c95669ec173496e189",
       "bands": [
         "B1",
         "B2",
