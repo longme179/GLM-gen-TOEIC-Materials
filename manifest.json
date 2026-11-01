@@ -369,6 +369,28 @@
           "sha256": "efec3f7efd912cec01fc7d414b169e5154be938099c9f38fab3fe1cb5767983f"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566559863570571355",
+      "committed": true,
+      "posted_at": "2026-11-01 21:09 UTC"
+    },
+    "p2-atlas-2": {
+      "phase": 2,
+      "order": 18,
+      "title": "P2 · Grammar Atlas II — Clauses, Connectors & Word Forms",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P2-reference/grammar-atlas-2-clauses-connectors-word-forms.md",
+          "sha256": "1776e9834daa710ef781a2be8f65b72aef77ba2530495c84e3bbb7bd4ce0336c"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -586,6 +608,19 @@
     "P2-reference/grammar-atlas-1-sentence-core.md": {
       "unit": "p2-atlas-1",
       "sha256": "efec3f7efd912cec01fc7d414b169e5154be938099c9f38fab3fe1cb5767983f",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566559863570571355"
+    },
+    "P2-reference/grammar-atlas-2-clauses-connectors-word-forms.md": {
+      "unit": "p2-atlas-2",
+      "sha256": "1776e9834daa710ef781a2be8f65b72aef77ba2530495c84e3bbb7bd4ce0336c",
       "bands": [
         "B1",
         "B2",
