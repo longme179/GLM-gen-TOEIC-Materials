@@ -435,6 +435,28 @@
           "sha256": "7bb6e20100923635bef9255ff2d18857ffa03a5888ebbef3ea7e267f4535776c"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566559930213859471",
+      "committed": true,
+      "posted_at": "2026-11-01 21:09 UTC"
+    },
+    "p2-vocab-3": {
+      "phase": 2,
+      "order": 21,
+      "title": "P2 · Business Vocabulary III — Dining, Events, Retail & IT",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P2-reference/business-vocabulary-3-dining-events-retail-it.md",
+          "sha256": "7a3263c38b3c5cc2cde868452023698bf9f5e3f281dbcf1cd0741f2b72155042"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -691,6 +713,19 @@
     "P2-reference/business-vocabulary-2-travel-manufacturing-housing-health.md": {
       "unit": "p2-vocab-2",
       "sha256": "7bb6e20100923635bef9255ff2d18857ffa03a5888ebbef3ea7e267f4535776c",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566559930213859471"
+    },
+    "P2-reference/business-vocabulary-3-dining-events-retail-it.md": {
+      "unit": "p2-vocab-3",
+      "sha256": "7a3263c38b3c5cc2cde868452023698bf9f5e3f281dbcf1cd0741f2b72155042",
       "bands": [
         "B1",
         "B2",
