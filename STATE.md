@@ -4,10 +4,10 @@
 > The repo is the durable memory: a fresh session clones/pulls, reads this file plus
 > manifest.json, and resumes at the next unit. Never force-push or rewrite history.
 
-- **Phase:** P3 daily plan
-- **Last completed unit:** p3-day-30
-- **Next unit:** p4-drills-part-1
-- **Last update:** 2026-11-01 21:27 UTC
+- **Phase:** P4 practice
+- **Last completed unit:** p4-drills-part-1
+- **Next unit:** p4-drills-part-2
+- **Last update:** 2026-11-01 21:55 UTC
 
 Phases: P1 orientation → P2 reference → P3 daily plan (30 days) → P4 practice (drills + 3 full tests) → P5 expansion.
 

@@ -1187,6 +1187,27 @@
       "discord_message_id": "1566564341237555201",
       "committed": true,
       "posted_at": "2026-11-01 21:27 UTC"
+    },
+    "p4-drills-part-1": {
+      "phase": 4,
+      "order": 55,
+      "title": "P4 · Part 1 Drills — Photographs (Scene Cards)",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P4-practice/drills/part-1-drills.md",
+          "sha256": "17b8f3d91de1ba5622352737693d03df5ba242d549aacc269fbb75425ae5b0ce"
+        }
+      ],
+      "pushed": false,
+      "discord_message_id": null,
+      "committed": false
     }
   },
   "files": {
@@ -1891,6 +1912,19 @@
       ],
       "pushed": true,
       "discord_message_id": "1566564341237555201"
+    },
+    "P4-practice/drills/part-1-drills.md": {
+      "unit": "p4-drills-part-1",
+      "sha256": "17b8f3d91de1ba5622352737693d03df5ba242d549aacc269fbb75425ae5b0ce",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": false,
+      "discord_message_id": null
     }
   }
 }
