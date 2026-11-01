@@ -1051,6 +1051,28 @@
           "sha256": "d75658ad24a10b9539b9adca95dca45986f7b6177877d0f81a21b83bb7554561"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566564224002687066",
+      "committed": true,
+      "posted_at": "2026-11-01 21:26 UTC"
+    },
+    "p3-day-25": {
+      "phase": 3,
+      "order": 49,
+      "title": "P3 · Day 25 — Review 4 + Weakest-Part Triage",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P3-daily-plan/day-25.md",
+          "sha256": "c34ae146ae0ca990693b28909303ed124b8b6640ddeabe0f93829feecec8290e"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -1671,6 +1693,19 @@
     "P3-daily-plan/day-24.md": {
       "unit": "p3-day-24",
       "sha256": "d75658ad24a10b9539b9adca95dca45986f7b6177877d0f81a21b83bb7554561",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566564224002687066"
+    },
+    "P3-daily-plan/day-25.md": {
+      "unit": "p3-day-25",
+      "sha256": "c34ae146ae0ca990693b28909303ed124b8b6640ddeabe0f93829feecec8290e",
       "bands": [
         "B1",
         "B2",
