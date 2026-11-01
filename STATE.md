@@ -5,8 +5,8 @@
 > manifest.json, and resumes at the next unit. Never force-push or rewrite history.
 
 - **Phase:** P5 expansion
-- **Last completed unit:** p5-speed
-- **Next unit:** p5-consolidation
+- **Last completed unit:** p5-consolidation
+- **Next unit:** p5-checklist
 - **Last update:** 2026-11-01 22:30 UTC
 
 Phases: P1 orientation → P2 reference → P3 daily plan (30 days) → P4 practice (drills + 3 full tests) → P5 expansion.

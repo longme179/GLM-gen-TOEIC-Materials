@@ -1471,6 +1471,28 @@
           "sha256": "91b48a496383d64b2024ad18e8242728708a75ab1b2a83ba73b848dedfebbe17"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566580181727059998",
+      "committed": true,
+      "posted_at": "2026-11-01 22:30 UTC"
+    },
+    "p5-consolidation": {
+      "phase": 5,
+      "order": 67,
+      "title": "P5 · Final-Week Consolidation",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P5-expansion/final-week-consolidation.md",
+          "sha256": "0538a69979ced056a9bfa7c7be5572e04a826e92ef92b140d0a53d3d89a7187a"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -2403,6 +2425,19 @@
     "P5-expansion/part-7-speed-reading-set.md": {
       "unit": "p5-speed",
       "sha256": "91b48a496383d64b2024ad18e8242728708a75ab1b2a83ba73b848dedfebbe17",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566580181727059998"
+    },
+    "P5-expansion/final-week-consolidation.md": {
+      "unit": "p5-consolidation",
+      "sha256": "0538a69979ced056a9bfa7c7be5572e04a826e92ef92b140d0a53d3d89a7187a",
       "bands": [
         "B1",
         "B2",
