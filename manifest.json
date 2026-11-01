@@ -527,6 +527,27 @@
       "discord_message_id": "1566560018277335091",
       "committed": true,
       "posted_at": "2026-11-01 21:10 UTC"
+    },
+    "p3-day-01": {
+      "phase": 3,
+      "order": 25,
+      "title": "P3 · Day 01 — Diagnostic & Setup",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P3-daily-plan/day-01.md",
+          "sha256": "19e9be916a7ee4ea439f24838205d1abde2d078c8489dba81d1807f2c34120d4"
+        }
+      ],
+      "pushed": false,
+      "discord_message_id": null,
+      "committed": false
     }
   },
   "files": {
@@ -841,6 +862,19 @@
       ],
       "pushed": true,
       "discord_message_id": "1566560018277335091"
+    },
+    "P3-daily-plan/day-01.md": {
+      "unit": "p3-day-01",
+      "sha256": "19e9be916a7ee4ea439f24838205d1abde2d078c8489dba81d1807f2c34120d4",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": false,
+      "discord_message_id": null
     }
   }
 }
