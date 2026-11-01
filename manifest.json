@@ -787,6 +787,28 @@
           "sha256": "ec04ac69fe61997efd7e9f86289ed3a2e7d87cc539520ad2a3cd72900d65f6ee"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566563978019344598",
+      "committed": true,
+      "posted_at": "2026-11-01 21:25 UTC"
+    },
+    "p3-day-13": {
+      "phase": 3,
+      "order": 37,
+      "title": "P3 · Day 13 — Part 4: Prediction & Distractor Lab",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P3-daily-plan/day-13.md",
+          "sha256": "c9dd1457ab201ec9318d2960a7ff84656cb5dd934fcf771284d72e6a4157dcf4"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -1251,6 +1273,19 @@
     "P3-daily-plan/day-12.md": {
       "unit": "p3-day-12",
       "sha256": "ec04ac69fe61997efd7e9f86289ed3a2e7d87cc539520ad2a3cd72900d65f6ee",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566563978019344598"
+    },
+    "P3-daily-plan/day-13.md": {
+      "unit": "p3-day-13",
+      "sha256": "c9dd1457ab201ec9318d2960a7ff84656cb5dd934fcf771284d72e6a4157dcf4",
       "bands": [
         "B1",
         "B2",
