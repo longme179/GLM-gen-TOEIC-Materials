@@ -19,6 +19,27 @@
       ],
       "pushed": false,
       "discord_message_id": null,
+      "committed": true
+    },
+    "format": {
+      "phase": 1,
+      "order": 2,
+      "title": "FORMAT.md — Verified Test Format and Sources",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "FORMAT.md",
+          "sha256": "21f3c6d2701f99614524c71e42fad7405082c958cf3221b938979bb5940d12b1"
+        }
+      ],
+      "pushed": false,
+      "discord_message_id": null,
       "committed": false
     }
   },
@@ -26,6 +47,19 @@
     "README.md": {
       "unit": "readme",
       "sha256": "781da44fb27501f927b074a5374add48c3b18a562df149ab0b52848a1da4e735",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": false,
+      "discord_message_id": null
+    },
+    "FORMAT.md": {
+      "unit": "format",
+      "sha256": "21f3c6d2701f99614524c71e42fad7405082c958cf3221b938979bb5940d12b1",
       "bands": [
         "B1",
         "B2",
