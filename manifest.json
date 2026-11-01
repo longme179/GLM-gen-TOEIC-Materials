@@ -743,6 +743,28 @@
           "sha256": "f69fc8b6b369be457381741bbf50a820805e7d802a98656e97d344c8104e1791"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566563939230162964",
+      "committed": true,
+      "posted_at": "2026-11-01 21:25 UTC"
+    },
+    "p3-day-11": {
+      "phase": 3,
+      "order": 35,
+      "title": "P3 · Day 11 — Test 1 Autopsy",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P3-daily-plan/day-11.md",
+          "sha256": "38cc14d0e722b5af061c3cbcf9c9d8cdcc0d3d31695041d7e7cfa60e4575795e"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -1181,6 +1203,19 @@
     "P3-daily-plan/day-10.md": {
       "unit": "p3-day-10",
       "sha256": "f69fc8b6b369be457381741bbf50a820805e7d802a98656e97d344c8104e1791",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566563939230162964"
+    },
+    "P3-daily-plan/day-11.md": {
+      "unit": "p3-day-11",
+      "sha256": "38cc14d0e722b5af061c3cbcf9c9d8cdcc0d3d31695041d7e7cfa60e4575795e",
       "bands": [
         "B1",
         "B2",
