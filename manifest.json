@@ -633,6 +633,28 @@
           "sha256": "56c5ca051ef358c9220a38c43b2975cf74e59fe31247e4971e737f39980fa616"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566563838986559518",
+      "committed": true,
+      "posted_at": "2026-11-01 21:25 UTC"
+    },
+    "p3-day-06": {
+      "phase": 3,
+      "order": 30,
+      "title": "P3 · Day 06 — Part 3: Structure & Pre-Reading",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P3-daily-plan/day-06.md",
+          "sha256": "c60866d4a64bf50f18cf843290552ad812de0398a07f27587c5cb1cd65c55052"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -1006,6 +1028,19 @@
     "P3-daily-plan/day-05.md": {
       "unit": "p3-day-05",
       "sha256": "56c5ca051ef358c9220a38c43b2975cf74e59fe31247e4971e737f39980fa616",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566563838986559518"
+    },
+    "P3-daily-plan/day-06.md": {
+      "unit": "p3-day-06",
+      "sha256": "c60866d4a64bf50f18cf843290552ad812de0398a07f27587c5cb1cd65c55052",
       "bands": [
         "B1",
         "B2",
