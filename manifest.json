@@ -215,6 +215,28 @@
           "sha256": "27e5eba8f92a5976ac0a33e89e95c3a2ae8db74dcd8a58777b09caf0fb444e77"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566559714794278933",
+      "committed": true,
+      "posted_at": "2026-11-01 21:09 UTC"
+    },
+    "p2-part-2-strategy": {
+      "phase": 2,
+      "order": 11,
+      "title": "P2 · Part 2 Strategy — Question–Response",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P2-reference/part-2-strategy.md",
+          "sha256": "467c55a2e4d8ee7cbe5952b4b7f96a5a67bc52da0910ad74f34982baa74acb81"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -341,6 +363,19 @@
     "P2-reference/part-1-strategy.md": {
       "unit": "p2-part-1-strategy",
       "sha256": "27e5eba8f92a5976ac0a33e89e95c3a2ae8db74dcd8a58777b09caf0fb444e77",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566559714794278933"
+    },
+    "P2-reference/part-2-strategy.md": {
+      "unit": "p2-part-2-strategy",
+      "sha256": "467c55a2e4d8ee7cbe5952b4b7f96a5a67bc52da0910ad74f34982baa74acb81",
       "bands": [
         "B1",
         "B2",
