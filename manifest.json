@@ -83,6 +83,28 @@
           "sha256": "4a7afb31c8f15164661bcf2a4e8f4de76660b9bbd9ad8116beaafa8344407e6b"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566554345015873739",
+      "committed": true,
+      "posted_at": "2026-11-01 20:47 UTC"
+    },
+    "p1-start-3": {
+      "phase": 1,
+      "order": 5,
+      "title": "P1 · START HERE 3/3 — The Highest-Leverage Exercise",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P1-orientation/00-START-HERE-3-highest-leverage-exercise.md",
+          "sha256": "3807f54715633f22d7b5e67e670bcf9dff4de8068aa05b424151e72325d78f9f"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -131,6 +153,19 @@
     "P1-orientation/00-START-HERE-2-what-to-ignore.md": {
       "unit": "p1-start-2",
       "sha256": "4a7afb31c8f15164661bcf2a4e8f4de76660b9bbd9ad8116beaafa8344407e6b",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566554345015873739"
+    },
+    "P1-orientation/00-START-HERE-3-highest-leverage-exercise.md": {
+      "unit": "p1-start-3",
+      "sha256": "3807f54715633f22d7b5e67e670bcf9dff4de8068aa05b424151e72325d78f9f",
       "bands": [
         "B1",
         "B2",
