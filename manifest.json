@@ -699,6 +699,28 @@
           "sha256": "8fb6b0cd6c40781864927b987111ec8e300dcf767c58c6756592eb467b025a77"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566563899317157960",
+      "committed": true,
+      "posted_at": "2026-11-01 21:25 UTC"
+    },
+    "p3-day-09": {
+      "phase": 3,
+      "order": 33,
+      "title": "P3 · Day 09 — Part 7 II: Question Types & First Timing",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P3-daily-plan/day-09.md",
+          "sha256": "75713fae0f91a462d94ee4412cd18e27b6e5a92a8e235a6e905e35c8870bbffc"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -1111,6 +1133,19 @@
     "P3-daily-plan/day-08.md": {
       "unit": "p3-day-08",
       "sha256": "8fb6b0cd6c40781864927b987111ec8e300dcf767c58c6756592eb467b025a77",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566563899317157960"
+    },
+    "P3-daily-plan/day-09.md": {
+      "unit": "p3-day-09",
+      "sha256": "75713fae0f91a462d94ee4412cd18e27b6e5a92a8e235a6e905e35c8870bbffc",
       "bands": [
         "B1",
         "B2",
