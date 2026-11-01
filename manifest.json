@@ -1139,6 +1139,28 @@
           "sha256": "32aeaafba5d633a129f72c9f345b7e64ff517f6ece3beb182cdf595eea084af0"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566564301941121045",
+      "committed": true,
+      "posted_at": "2026-11-01 21:27 UTC"
+    },
+    "p3-day-29": {
+      "phase": 3,
+      "order": 53,
+      "title": "P3 · Day 29 — Consolidation & Test-Day Plan",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P3-daily-plan/day-29.md",
+          "sha256": "4048b5d4a5beffb9e4c0b37c3bae068e5ce7c6881fb0c09aa90dc2c20db22f27"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -1811,6 +1833,19 @@
     "P3-daily-plan/day-28.md": {
       "unit": "p3-day-28",
       "sha256": "32aeaafba5d633a129f72c9f345b7e64ff517f6ece3beb182cdf595eea084af0",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566564301941121045"
+    },
+    "P3-daily-plan/day-29.md": {
+      "unit": "p3-day-29",
+      "sha256": "4048b5d4a5beffb9e4c0b37c3bae068e5ce7c6881fb0c09aa90dc2c20db22f27",
       "bands": [
         "B1",
         "B2",
