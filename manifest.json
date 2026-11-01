@@ -897,6 +897,28 @@
           "sha256": "82fdafe07a1ff9287d339cae51b5138495e86fa7c6eb86f82a0bf78ec23da6ff"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566564083367551047",
+      "committed": true,
+      "posted_at": "2026-11-01 21:26 UTC"
+    },
+    "p3-day-18": {
+      "phase": 3,
+      "order": 42,
+      "title": "P3 · Day 18 — Review 3 + Vocabulary Block 3",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P3-daily-plan/day-18.md",
+          "sha256": "aa8efe1a6f5bc1ad801dd9c1e569723761f103b5c178e9328d0fe4e6c1d633d2"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -1426,6 +1448,19 @@
     "P3-daily-plan/day-17.md": {
       "unit": "p3-day-17",
       "sha256": "82fdafe07a1ff9287d339cae51b5138495e86fa7c6eb86f82a0bf78ec23da6ff",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566564083367551047"
+    },
+    "P3-daily-plan/day-18.md": {
+      "unit": "p3-day-18",
+      "sha256": "aa8efe1a6f5bc1ad801dd9c1e569723761f103b5c178e9328d0fe4e6c1d633d2",
       "bands": [
         "B1",
         "B2",
