@@ -197,6 +197,27 @@
       "discord_message_id": "1566554453841289296",
       "committed": true,
       "posted_at": "2026-11-01 20:48 UTC"
+    },
+    "p2-part-1-strategy": {
+      "phase": 2,
+      "order": 10,
+      "title": "P2 · Part 1 Strategy — Photographs (Scene Cards)",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P2-reference/part-1-strategy.md",
+          "sha256": "27e5eba8f92a5976ac0a33e89e95c3a2ae8db74dcd8a58777b09caf0fb444e77"
+        }
+      ],
+      "pushed": false,
+      "discord_message_id": null,
+      "committed": false
     }
   },
   "files": {
@@ -316,6 +337,19 @@
       ],
       "pushed": true,
       "discord_message_id": "1566554453841289296"
+    },
+    "P2-reference/part-1-strategy.md": {
+      "unit": "p2-part-1-strategy",
+      "sha256": "27e5eba8f92a5976ac0a33e89e95c3a2ae8db74dcd8a58777b09caf0fb444e77",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": false,
+      "discord_message_id": null
     }
   }
 }
