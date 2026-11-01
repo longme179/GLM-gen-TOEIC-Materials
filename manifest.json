@@ -1029,6 +1029,28 @@
           "sha256": "6422a5dd30e5920a0ce68d40a6b05e6306850fad2933c7690b3b1b578737fbf0"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566564202473062652",
+      "committed": true,
+      "posted_at": "2026-11-01 21:26 UTC"
+    },
+    "p3-day-24": {
+      "phase": 3,
+      "order": 48,
+      "title": "P3 · Day 24 — Listening Distractor Lab",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P3-daily-plan/day-24.md",
+          "sha256": "d75658ad24a10b9539b9adca95dca45986f7b6177877d0f81a21b83bb7554561"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -1636,6 +1658,19 @@
     "P3-daily-plan/day-23.md": {
       "unit": "p3-day-23",
       "sha256": "6422a5dd30e5920a0ce68d40a6b05e6306850fad2933c7690b3b1b578737fbf0",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566564202473062652"
+    },
+    "P3-daily-plan/day-24.md": {
+      "unit": "p3-day-24",
+      "sha256": "d75658ad24a10b9539b9adca95dca45986f7b6177877d0f81a21b83bb7554561",
       "bands": [
         "B1",
         "B2",
