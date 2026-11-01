@@ -347,6 +347,28 @@
           "sha256": "5f0572b9a81290e38c54c523ab3cd90fc06bf59c31482c1b69fb119e0b57d370"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566559843073003732",
+      "committed": true,
+      "posted_at": "2026-11-01 21:09 UTC"
+    },
+    "p2-atlas-1": {
+      "phase": 2,
+      "order": 17,
+      "title": "P2 · Grammar Atlas I — The Sentence Core",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P2-reference/grammar-atlas-1-sentence-core.md",
+          "sha256": "efec3f7efd912cec01fc7d414b169e5154be938099c9f38fab3fe1cb5767983f"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -551,6 +573,19 @@
     "P2-reference/part-7-strategy.md": {
       "unit": "p2-part-7-strategy",
       "sha256": "5f0572b9a81290e38c54c523ab3cd90fc06bf59c31482c1b69fb119e0b57d370",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566559843073003732"
+    },
+    "P2-reference/grammar-atlas-1-sentence-core.md": {
+      "unit": "p2-atlas-1",
+      "sha256": "efec3f7efd912cec01fc7d414b169e5154be938099c9f38fab3fe1cb5767983f",
       "bands": [
         "B1",
         "B2",
