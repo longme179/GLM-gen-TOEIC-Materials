@@ -457,6 +457,28 @@
           "sha256": "7a3263c38b3c5cc2cde868452023698bf9f5e3f281dbcf1cd0741f2b72155042"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566559952309452981",
+      "committed": true,
+      "posted_at": "2026-11-01 21:09 UTC"
+    },
+    "p2-listening-toolkit": {
+      "phase": 2,
+      "order": 22,
+      "title": "P2 · The Listening Toolkit — Paraphrase Patterns & Distractor Types",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P2-reference/listening-toolkit.md",
+          "sha256": "a3b301b6d35ba43b3cede8331b78f15fe12bcaa0b04bd1c8cf705b992d1b1109"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -726,6 +748,19 @@
     "P2-reference/business-vocabulary-3-dining-events-retail-it.md": {
       "unit": "p2-vocab-3",
       "sha256": "7a3263c38b3c5cc2cde868452023698bf9f5e3f281dbcf1cd0741f2b72155042",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566559952309452981"
+    },
+    "P2-reference/listening-toolkit.md": {
+      "unit": "p2-listening-toolkit",
+      "sha256": "a3b301b6d35ba43b3cede8331b78f15fe12bcaa0b04bd1c8cf705b992d1b1109",
       "bands": [
         "B1",
         "B2",
