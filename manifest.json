@@ -413,6 +413,28 @@
           "sha256": "9d5146a006014ad9ea6b66461ab7daf32d45699341d6e8057b0704f35b5ef99a"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566559906990006405",
+      "committed": true,
+      "posted_at": "2026-11-01 21:09 UTC"
+    },
+    "p2-vocab-2": {
+      "phase": 2,
+      "order": 20,
+      "title": "P2 · Business Vocabulary II — Travel, Manufacturing, Housing & Health",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P2-reference/business-vocabulary-2-travel-manufacturing-housing-health.md",
+          "sha256": "7bb6e20100923635bef9255ff2d18857ffa03a5888ebbef3ea7e267f4535776c"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -656,6 +678,19 @@
     "P2-reference/business-vocabulary-1-office-hr-finance-banking.md": {
       "unit": "p2-vocab-1",
       "sha256": "9d5146a006014ad9ea6b66461ab7daf32d45699341d6e8057b0704f35b5ef99a",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566559906990006405"
+    },
+    "P2-reference/business-vocabulary-2-travel-manufacturing-housing-health.md": {
+      "unit": "p2-vocab-2",
+      "sha256": "7bb6e20100923635bef9255ff2d18857ffa03a5888ebbef3ea7e267f4535776c",
       "bands": [
         "B1",
         "B2",
