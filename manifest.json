@@ -941,6 +941,28 @@
           "sha256": "9d67f5da6df32a1d026130a932ce429cfa1e78d5d9f8956a2c4a94dec77fa933"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566564122831749371",
+      "committed": true,
+      "posted_at": "2026-11-01 21:26 UTC"
+    },
+    "p3-day-20": {
+      "phase": 3,
+      "order": 44,
+      "title": "P3 · Day 20 — FULL TEST 2",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P3-daily-plan/day-20.md",
+          "sha256": "a763a0e2dd4712e3d2bfb1c812a964269f68ebfaa795623c33c496e0e781789e"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -1496,6 +1518,19 @@
     "P3-daily-plan/day-19.md": {
       "unit": "p3-day-19",
       "sha256": "9d67f5da6df32a1d026130a932ce429cfa1e78d5d9f8956a2c4a94dec77fa933",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566564122831749371"
+    },
+    "P3-daily-plan/day-20.md": {
+      "unit": "p3-day-20",
+      "sha256": "a763a0e2dd4712e3d2bfb1c812a964269f68ebfaa795623c33c496e0e781789e",
       "bands": [
         "B1",
         "B2",
