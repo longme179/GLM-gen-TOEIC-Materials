@@ -281,6 +281,28 @@
           "sha256": "992bfb0356bc0d5ebb38dadf79f4d4f181683e9b70c9b7fd236ea04026dfc4ea"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566559778615074818",
+      "committed": true,
+      "posted_at": "2026-11-01 21:09 UTC"
+    },
+    "p2-part-5-strategy": {
+      "phase": 2,
+      "order": 14,
+      "title": "P2 · Part 5 Strategy — Incomplete Sentences",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P2-reference/part-5-strategy.md",
+          "sha256": "e52c8678f7c3e1ba56bcc66e5ee0e026ba507a6dc4ea1179faeba7917c659358"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -446,6 +468,19 @@
     "P2-reference/part-4-strategy.md": {
       "unit": "p2-part-4-strategy",
       "sha256": "992bfb0356bc0d5ebb38dadf79f4d4f181683e9b70c9b7fd236ea04026dfc4ea",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566559778615074818"
+    },
+    "P2-reference/part-5-strategy.md": {
+      "unit": "p2-part-5-strategy",
+      "sha256": "e52c8678f7c3e1ba56bcc66e5ee0e026ba507a6dc4ea1179faeba7917c659358",
       "bands": [
         "B1",
         "B2",
