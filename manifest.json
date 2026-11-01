@@ -853,6 +853,28 @@
           "sha256": "30258f76f253836bc092cebf239207b2733b62a56a203a2eefb889e4c0872bfc"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566564039616893149",
+      "committed": true,
+      "posted_at": "2026-11-01 21:26 UTC"
+    },
+    "p3-day-16": {
+      "phase": 3,
+      "order": 40,
+      "title": "P3 · Day 16 — Part 5 Core II: Tense, Voice & Clauses",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P3-daily-plan/day-16.md",
+          "sha256": "62a4ceae3ac86fa3292c12a9f363c219c65a202700a80af4ee0e07e6dce4c819"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -1356,6 +1378,19 @@
     "P3-daily-plan/day-15.md": {
       "unit": "p3-day-15",
       "sha256": "30258f76f253836bc092cebf239207b2733b62a56a203a2eefb889e4c0872bfc",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566564039616893149"
+    },
+    "P3-daily-plan/day-16.md": {
+      "unit": "p3-day-16",
+      "sha256": "62a4ceae3ac86fa3292c12a9f363c219c65a202700a80af4ee0e07e6dce4c819",
       "bands": [
         "B1",
         "B2",
