@@ -1271,6 +1271,28 @@
           "sha256": "e077e47318d7409052ee846a8f464d60d1547a5b85bcdaeca03aa5ffdbca559b"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566571524456972369",
+      "committed": true,
+      "posted_at": "2026-11-01 21:55 UTC"
+    },
+    "p4-drills-part-5": {
+      "phase": 4,
+      "order": 59,
+      "title": "P4 · Part 5 Drills — Incomplete Sentences",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P4-practice/drills/part-5-drills.md",
+          "sha256": "eedc23b0c560a3c232b445e5f37a99b91265f8c3a8f053f131814bc6fe41d040"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -2021,6 +2043,19 @@
     "P4-practice/drills/part-4-drills.md": {
       "unit": "p4-drills-part-4",
       "sha256": "e077e47318d7409052ee846a8f464d60d1547a5b85bcdaeca03aa5ffdbca559b",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566571524456972369"
+    },
+    "P4-practice/drills/part-5-drills.md": {
+      "unit": "p4-drills-part-5",
+      "sha256": "eedc23b0c560a3c232b445e5f37a99b91265f8c3a8f053f131814bc6fe41d040",
       "bands": [
         "B1",
         "B2",
