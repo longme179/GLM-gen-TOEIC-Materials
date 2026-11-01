@@ -1367,9 +1367,10 @@
           "sha256": "046d7ba1d2ac6b83d534d882541d395f1e025f70025776b534f2ddf71f45faeb"
         }
       ],
-      "pushed": false,
-      "discord_message_id": null,
-      "committed": false
+      "pushed": true,
+      "discord_message_id": "1566571645982744759",
+      "committed": true,
+      "posted_at": "2026-11-01 21:56 UTC"
     }
   },
   "files": {
@@ -2176,8 +2177,8 @@
         "B4",
         "B5"
       ],
-      "pushed": false,
-      "discord_message_id": null
+      "pushed": true,
+      "discord_message_id": "1566571645982744759"
     },
     "P4-practice/test-1/test-1-listening-script.md": {
       "unit": "p4-test-1",
@@ -2189,8 +2190,8 @@
         "B4",
         "B5"
       ],
-      "pushed": false,
-      "discord_message_id": null
+      "pushed": true,
+      "discord_message_id": "1566571645982744759"
     },
     "P4-practice/test-1/test-1-answer-key.md": {
       "unit": "p4-test-1",
@@ -2202,8 +2203,8 @@
         "B4",
         "B5"
       ],
-      "pushed": false,
-      "discord_message_id": null
+      "pushed": true,
+      "discord_message_id": "1566571645982744759"
     }
   }
 }
