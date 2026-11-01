@@ -1315,6 +1315,28 @@
           "sha256": "de67647260ce6503202a40c4ba785f822e60fd96afa4c7dc9f75d6af7bfe21eb"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566571567037554880",
+      "committed": true,
+      "posted_at": "2026-11-01 21:56 UTC"
+    },
+    "p4-drills-part-7": {
+      "phase": 4,
+      "order": 61,
+      "title": "P4 · Part 7 Drills — Reading Comprehension",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P4-practice/drills/part-7-drills.md",
+          "sha256": "f4b19bb820468935ab68e469ab937cf710f6f25f10ccd5b948c74e05c5ad12bd"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -2091,6 +2113,19 @@
     "P4-practice/drills/part-6-drills.md": {
       "unit": "p4-drills-part-6",
       "sha256": "de67647260ce6503202a40c4ba785f822e60fd96afa4c7dc9f75d6af7bfe21eb",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566571567037554880"
+    },
+    "P4-practice/drills/part-7-drills.md": {
+      "unit": "p4-drills-part-7",
+      "sha256": "f4b19bb820468935ab68e469ab937cf710f6f25f10ccd5b948c74e05c5ad12bd",
       "bands": [
         "B1",
         "B2",
