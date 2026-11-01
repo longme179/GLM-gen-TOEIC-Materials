@@ -611,6 +611,28 @@
           "sha256": "5ae844e308d4ed98d8ccfea28d6eea09bf7a09920c3579c95669ec173496e189"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566563817305939969",
+      "committed": true,
+      "posted_at": "2026-11-01 21:25 UTC"
+    },
+    "p3-day-05": {
+      "phase": 3,
+      "order": 29,
+      "title": "P3 · Day 05 — Review 1 + Vocabulary Block 1",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P3-daily-plan/day-05.md",
+          "sha256": "56c5ca051ef358c9220a38c43b2975cf74e59fe31247e4971e737f39980fa616"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -971,6 +993,19 @@
     "P3-daily-plan/day-04.md": {
       "unit": "p3-day-04",
       "sha256": "5ae844e308d4ed98d8ccfea28d6eea09bf7a09920c3579c95669ec173496e189",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566563817305939969"
+    },
+    "P3-daily-plan/day-05.md": {
+      "unit": "p3-day-05",
+      "sha256": "56c5ca051ef358c9220a38c43b2975cf74e59fe31247e4971e737f39980fa616",
       "bands": [
         "B1",
         "B2",
