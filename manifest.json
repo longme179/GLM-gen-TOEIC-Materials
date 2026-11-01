@@ -1449,6 +1449,28 @@
           "sha256": "63aca1c43c3a8d93877310636fe810bc15897b46c9dec85e36ce2f3b20cd3e1d"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566580157156687873",
+      "committed": true,
+      "posted_at": "2026-11-01 22:30 UTC"
+    },
+    "p5-speed": {
+      "phase": 5,
+      "order": 66,
+      "title": "P5 · Part 7 Speed-Reading Set — Timed Blocks",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P5-expansion/part-7-speed-reading-set.md",
+          "sha256": "91b48a496383d64b2024ad18e8242728708a75ab1b2a83ba73b848dedfebbe17"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -2368,6 +2390,19 @@
     "P5-expansion/mixed-grammar-vocabulary-drills.md": {
       "unit": "p5-mixed",
       "sha256": "63aca1c43c3a8d93877310636fe810bc15897b46c9dec85e36ce2f3b20cd3e1d",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566580157156687873"
+    },
+    "P5-expansion/part-7-speed-reading-set.md": {
+      "unit": "p5-speed",
+      "sha256": "91b48a496383d64b2024ad18e8242728708a75ab1b2a83ba73b848dedfebbe17",
       "bands": [
         "B1",
         "B2",
