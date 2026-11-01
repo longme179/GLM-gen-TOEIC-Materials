@@ -1073,6 +1073,28 @@
           "sha256": "c34ae146ae0ca990693b28909303ed124b8b6640ddeabe0f93829feecec8290e"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566564242818076833",
+      "committed": true,
+      "posted_at": "2026-11-01 21:27 UTC"
+    },
+    "p3-day-26": {
+      "phase": 3,
+      "order": 50,
+      "title": "P3 · Day 26 — Weak-Part Surgery",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P3-daily-plan/day-26.md",
+          "sha256": "e745604c250a467c8e6e6f85d74b9d72492f3cee92912338acf25a7b3bf5d681"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -1706,6 +1728,19 @@
     "P3-daily-plan/day-25.md": {
       "unit": "p3-day-25",
       "sha256": "c34ae146ae0ca990693b28909303ed124b8b6640ddeabe0f93829feecec8290e",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566564242818076833"
+    },
+    "P3-daily-plan/day-26.md": {
+      "unit": "p3-day-26",
+      "sha256": "e745604c250a467c8e6e6f85d74b9d72492f3cee92912338acf25a7b3bf5d681",
       "bands": [
         "B1",
         "B2",
