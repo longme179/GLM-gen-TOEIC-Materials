@@ -677,6 +677,28 @@
           "sha256": "705642a356b0b15f753b5a6dd02d80cac18f7e1ff434dbbd39e79201087e1c29"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566563878828118036",
+      "committed": true,
+      "posted_at": "2026-11-01 21:25 UTC"
+    },
+    "p3-day-08": {
+      "phase": 3,
+      "order": 32,
+      "title": "P3 · Day 08 — Part 7 I: Single Passages & Scanning",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P3-daily-plan/day-08.md",
+          "sha256": "8fb6b0cd6c40781864927b987111ec8e300dcf767c58c6756592eb467b025a77"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -1076,6 +1098,19 @@
     "P3-daily-plan/day-07.md": {
       "unit": "p3-day-07",
       "sha256": "705642a356b0b15f753b5a6dd02d80cac18f7e1ff434dbbd39e79201087e1c29",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566563878828118036"
+    },
+    "P3-daily-plan/day-08.md": {
+      "unit": "p3-day-08",
+      "sha256": "8fb6b0cd6c40781864927b987111ec8e300dcf767c58c6756592eb467b025a77",
       "bands": [
         "B1",
         "B2",
