@@ -4,10 +4,10 @@
 > The repo is the durable memory: a fresh session clones/pulls, reads this file plus
 > manifest.json, and resumes at the next unit. Never force-push or rewrite history.
 
-- **Phase:** P5 expansion
+- **Phase:** COMPLETE (P1-P5 all delivered)
 - **Last completed unit:** p5-checklist
-- **Next unit:** course-complete
-- **Last update:** 2026-11-01 22:30 UTC
+- **Next unit:** none - course complete; a future session could add TTS audio from the script files (see D3)
+- **Last update:** 2026-11-01 22:31 UTC
 
 Phases: P1 orientation → P2 reference → P3 daily plan (30 days) → P4 practice (drills + 3 full tests) → P5 expansion.
 
@@ -32,3 +32,4 @@ Phases: P1 orientation → P2 reference → P3 daily plan (30 days) → P4 pract
 - Preflight 2026-11-02: Discord webhook test 'preflight ok' posted, message id 1566545661690904627.
 - Preflight 2026-11-02: pandoc 3.1.11.1 + weasyprint + tectonic present; PDF pipeline verified with Vietnamese sample (DejaVu embedded). requests available. espeak/espeak-ng present (see D3). Web search available.
 - Format verification 2026-11-02: part-level counts and timings from IIBC official page (see FORMAT.md sources); ETS corporate page confirmed 2x100 sections via search retrieval.
+- Course complete 2026-11-02: 68 units, 72 content files + README + FORMAT, 1594 questions, all committed, pushed and posted to Discord. No shortfalls within the P1-P5 scope.
