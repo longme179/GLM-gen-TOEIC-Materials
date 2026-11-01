@@ -963,6 +963,28 @@
           "sha256": "a763a0e2dd4712e3d2bfb1c812a964269f68ebfaa795623c33c496e0e781789e"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566564142612091001",
+      "committed": true,
+      "posted_at": "2026-11-01 21:26 UTC"
+    },
+    "p3-day-21": {
+      "phase": 3,
+      "order": 45,
+      "title": "P3 · Day 21 — Test 2 Autopsy & Band Tracking",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P3-daily-plan/day-21.md",
+          "sha256": "a521b21c08141effd288e1d3ae0f673588e9a2dc311015e60936b1641f9c126e"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -1531,6 +1553,19 @@
     "P3-daily-plan/day-20.md": {
       "unit": "p3-day-20",
       "sha256": "a763a0e2dd4712e3d2bfb1c812a964269f68ebfaa795623c33c496e0e781789e",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566564142612091001"
+    },
+    "P3-daily-plan/day-21.md": {
+      "unit": "p3-day-21",
+      "sha256": "a521b21c08141effd288e1d3ae0f673588e9a2dc311015e60936b1641f9c126e",
       "bands": [
         "B1",
         "B2",
