@@ -875,6 +875,28 @@
           "sha256": "62a4ceae3ac86fa3292c12a9f363c219c65a202700a80af4ee0e07e6dce4c819"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566564061779329194",
+      "committed": true,
+      "posted_at": "2026-11-01 21:26 UTC"
+    },
+    "p3-day-17": {
+      "phase": 3,
+      "order": 41,
+      "title": "P3 · Day 17 — Part 7 III: Double Passages",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P3-daily-plan/day-17.md",
+          "sha256": "82fdafe07a1ff9287d339cae51b5138495e86fa7c6eb86f82a0bf78ec23da6ff"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -1391,6 +1413,19 @@
     "P3-daily-plan/day-16.md": {
       "unit": "p3-day-16",
       "sha256": "62a4ceae3ac86fa3292c12a9f363c219c65a202700a80af4ee0e07e6dce4c819",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566564061779329194"
+    },
+    "P3-daily-plan/day-17.md": {
+      "unit": "p3-day-17",
+      "sha256": "82fdafe07a1ff9287d339cae51b5138495e86fa7c6eb86f82a0bf78ec23da6ff",
       "bands": [
         "B1",
         "B2",
