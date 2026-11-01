@@ -171,6 +171,28 @@
           "sha256": "d78a07121cdbadeaf138133a3cba4e9ce590e9c6b280e4c8f6481e4084c58537"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566554430919155810",
+      "committed": true,
+      "posted_at": "2026-11-01 20:48 UTC"
+    },
+    "p1-diagnostic-key": {
+      "phase": 1,
+      "order": 9,
+      "title": "P1 · Diagnostic Mini-Test — Key & Band Placement",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P1-orientation/04-diagnostic-mini-test-key.md",
+          "sha256": "927cc7e4204162f141797e0d2133d936fcc56ee3543f1c58939580c3730f0b23"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -271,6 +293,19 @@
     "P1-orientation/03-diagnostic-mini-test.md": {
       "unit": "p1-diagnostic",
       "sha256": "d78a07121cdbadeaf138133a3cba4e9ce590e9c6b280e4c8f6481e4084c58537",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566554430919155810"
+    },
+    "P1-orientation/04-diagnostic-mini-test-key.md": {
+      "unit": "p1-diagnostic-key",
+      "sha256": "927cc7e4204162f141797e0d2133d936fcc56ee3543f1c58939580c3730f0b23",
       "bands": [
         "B1",
         "B2",
