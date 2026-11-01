@@ -1293,6 +1293,28 @@
           "sha256": "eedc23b0c560a3c232b445e5f37a99b91265f8c3a8f053f131814bc6fe41d040"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566571545655255121",
+      "committed": true,
+      "posted_at": "2026-11-01 21:56 UTC"
+    },
+    "p4-drills-part-6": {
+      "phase": 4,
+      "order": 60,
+      "title": "P4 · Part 6 Drills — Text Completion",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P4-practice/drills/part-6-drills.md",
+          "sha256": "de67647260ce6503202a40c4ba785f822e60fd96afa4c7dc9f75d6af7bfe21eb"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -2056,6 +2078,19 @@
     "P4-practice/drills/part-5-drills.md": {
       "unit": "p4-drills-part-5",
       "sha256": "eedc23b0c560a3c232b445e5f37a99b91265f8c3a8f053f131814bc6fe41d040",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566571545655255121"
+    },
+    "P4-practice/drills/part-6-drills.md": {
+      "unit": "p4-drills-part-6",
+      "sha256": "de67647260ce6503202a40c4ba785f822e60fd96afa4c7dc9f75d6af7bfe21eb",
       "bands": [
         "B1",
         "B2",
