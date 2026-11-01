@@ -149,6 +149,28 @@
           "sha256": "aa9ce11f1cc8693127855a312ef536bcaa97e14ce6705cbed97d914252574bf5"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566554409104580829",
+      "committed": true,
+      "posted_at": "2026-11-01 20:47 UTC"
+    },
+    "p1-diagnostic": {
+      "phase": 1,
+      "order": 8,
+      "title": "P1 · Diagnostic Mini-Test (50 Questions)",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P1-orientation/03-diagnostic-mini-test.md",
+          "sha256": "d78a07121cdbadeaf138133a3cba4e9ce590e9c6b280e4c8f6481e4084c58537"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -236,6 +258,19 @@
     "P1-orientation/02-thirty-day-calendar.md": {
       "unit": "p1-calendar",
       "sha256": "aa9ce11f1cc8693127855a312ef536bcaa97e14ce6705cbed97d914252574bf5",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566554409104580829"
+    },
+    "P1-orientation/03-diagnostic-mini-test.md": {
+      "unit": "p1-diagnostic",
+      "sha256": "d78a07121cdbadeaf138133a3cba4e9ce590e9c6b280e4c8f6481e4084c58537",
       "bands": [
         "B1",
         "B2",
