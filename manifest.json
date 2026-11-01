@@ -1227,6 +1227,28 @@
           "sha256": "7f940e4bff33e9b346bd6f3dc11a917c8deafd7d2646a8c0ee9424f9f6d4d092"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566571482023202847",
+      "committed": true,
+      "posted_at": "2026-11-01 21:55 UTC"
+    },
+    "p4-drills-part-3": {
+      "phase": 4,
+      "order": 57,
+      "title": "P4 · Part 3 Drills — Conversations",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P4-practice/drills/part-3-drills.md",
+          "sha256": "bcc3fddd06bfcbc1d748b56d735c222e0cbfaa7629f23628c61ff562eeb11936"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -1951,6 +1973,19 @@
     "P4-practice/drills/part-2-drills.md": {
       "unit": "p4-drills-part-2",
       "sha256": "7f940e4bff33e9b346bd6f3dc11a917c8deafd7d2646a8c0ee9424f9f6d4d092",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566571482023202847"
+    },
+    "P4-practice/drills/part-3-drills.md": {
+      "unit": "p4-drills-part-3",
+      "sha256": "bcc3fddd06bfcbc1d748b56d735c222e0cbfaa7629f23628c61ff562eeb11936",
       "bands": [
         "B1",
         "B2",
