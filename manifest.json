@@ -479,6 +479,28 @@
           "sha256": "a3b301b6d35ba43b3cede8331b78f15fe12bcaa0b04bd1c8cf705b992d1b1109"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566559974493130913",
+      "committed": true,
+      "posted_at": "2026-11-01 21:10 UTC"
+    },
+    "p2-reading-toolkit": {
+      "phase": 2,
+      "order": 23,
+      "title": "P2 · The Part 7 Reading Toolkit",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P2-reference/reading-toolkit-part-7.md",
+          "sha256": "97c3c79e349d4bfb3a15ea9644ab5718439d66118f32c6bf7afc8deb9aab4dc2"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -761,6 +783,19 @@
     "P2-reference/listening-toolkit.md": {
       "unit": "p2-listening-toolkit",
       "sha256": "a3b301b6d35ba43b3cede8331b78f15fe12bcaa0b04bd1c8cf705b992d1b1109",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566559974493130913"
+    },
+    "P2-reference/reading-toolkit-part-7.md": {
+      "unit": "p2-reading-toolkit",
+      "sha256": "97c3c79e349d4bfb3a15ea9644ab5718439d66118f32c6bf7afc8deb9aab4dc2",
       "bands": [
         "B1",
         "B2",
