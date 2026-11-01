@@ -105,6 +105,28 @@
           "sha256": "3807f54715633f22d7b5e67e670bcf9dff4de8068aa05b424151e72325d78f9f"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566554364460400651",
+      "committed": true,
+      "posted_at": "2026-11-01 20:47 UTC"
+    },
+    "p1-anatomy": {
+      "phase": 1,
+      "order": 6,
+      "title": "P1 · Test Anatomy — All 7 Parts at a Glance",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P1-orientation/01-test-anatomy.md",
+          "sha256": "a82d3d14dc487abfe8af1f56216d85c1c21de0d5b5a66c51eb1a94272b4b6424"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -166,6 +188,19 @@
     "P1-orientation/00-START-HERE-3-highest-leverage-exercise.md": {
       "unit": "p1-start-3",
       "sha256": "3807f54715633f22d7b5e67e670bcf9dff4de8068aa05b424151e72325d78f9f",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566554364460400651"
+    },
+    "P1-orientation/01-test-anatomy.md": {
+      "unit": "p1-anatomy",
+      "sha256": "a82d3d14dc487abfe8af1f56216d85c1c21de0d5b5a66c51eb1a94272b4b6424",
       "bands": [
         "B1",
         "B2",
