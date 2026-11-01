@@ -1,0 +1,40 @@
+{
+  "units": {
+    "readme": {
+      "phase": 1,
+      "order": 1,
+      "title": "README — 30-Day TOEIC L&R Self-Study Course Guide",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "README.md",
+          "sha256": "781da44fb27501f927b074a5374add48c3b18a562df149ab0b52848a1da4e735"
+        }
+      ],
+      "pushed": false,
+      "discord_message_id": null,
+      "committed": false
+    }
+  },
+  "files": {
+    "README.md": {
+      "unit": "readme",
+      "sha256": "781da44fb27501f927b074a5374add48c3b18a562df149ab0b52848a1da4e735",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": false,
+      "discord_message_id": null
+    }
+  }
+}

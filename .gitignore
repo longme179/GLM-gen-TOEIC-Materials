@@ -1,0 +1,12 @@
+# Build artifacts - PDFs are generated for Discord delivery, markdown is canonical
+*.pdf
+pdfs/
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+*~
+# Never any secrets
+.env
+*.key
+secrets*
