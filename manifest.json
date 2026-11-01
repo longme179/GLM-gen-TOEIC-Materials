@@ -391,6 +391,28 @@
           "sha256": "1776e9834daa710ef781a2be8f65b72aef77ba2530495c84e3bbb7bd4ce0336c"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566559885179748474",
+      "committed": true,
+      "posted_at": "2026-11-01 21:09 UTC"
+    },
+    "p2-vocab-1": {
+      "phase": 2,
+      "order": 19,
+      "title": "P2 · Business Vocabulary I — Office, HR, Finance & Banking",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P2-reference/business-vocabulary-1-office-hr-finance-banking.md",
+          "sha256": "9d5146a006014ad9ea6b66461ab7daf32d45699341d6e8057b0704f35b5ef99a"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -621,6 +643,19 @@
     "P2-reference/grammar-atlas-2-clauses-connectors-word-forms.md": {
       "unit": "p2-atlas-2",
       "sha256": "1776e9834daa710ef781a2be8f65b72aef77ba2530495c84e3bbb7bd4ce0336c",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566559885179748474"
+    },
+    "P2-reference/business-vocabulary-1-office-hr-finance-banking.md": {
+      "unit": "p2-vocab-1",
+      "sha256": "9d5146a006014ad9ea6b66461ab7daf32d45699341d6e8057b0704f35b5ef99a",
       "bands": [
         "B1",
         "B2",
