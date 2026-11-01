@@ -1007,6 +1007,28 @@
           "sha256": "c7afc5977d7a9cc7cf8d7a9883dbfac73c053c0f4db59e48928e9b63b43949eb"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566564182671888448",
+      "committed": true,
+      "posted_at": "2026-11-01 21:26 UTC"
+    },
+    "p3-day-23": {
+      "phase": 3,
+      "order": 47,
+      "title": "P3 · Day 23 — Part 5-6 Speed Circuit",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P3-daily-plan/day-23.md",
+          "sha256": "6422a5dd30e5920a0ce68d40a6b05e6306850fad2933c7690b3b1b578737fbf0"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -1601,6 +1623,19 @@
     "P3-daily-plan/day-22.md": {
       "unit": "p3-day-22",
       "sha256": "c7afc5977d7a9cc7cf8d7a9883dbfac73c053c0f4db59e48928e9b63b43949eb",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566564182671888448"
+    },
+    "P3-daily-plan/day-23.md": {
+      "unit": "p3-day-23",
+      "sha256": "6422a5dd30e5920a0ce68d40a6b05e6306850fad2933c7690b3b1b578737fbf0",
       "bands": [
         "B1",
         "B2",
