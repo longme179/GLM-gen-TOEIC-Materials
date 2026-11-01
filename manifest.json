@@ -501,6 +501,28 @@
           "sha256": "97c3c79e349d4bfb3a15ea9644ab5718439d66118f32c6bf7afc8deb9aab4dc2"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566559998215987303",
+      "committed": true,
+      "posted_at": "2026-11-01 21:10 UTC"
+    },
+    "p2-error-log": {
+      "phase": 2,
+      "order": 24,
+      "title": "P2 · The Error-Log Template",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P2-reference/error-log-template.md",
+          "sha256": "34adbe7c68af49d531e853d31650add47b5b2d5a2490df9f673aa544bd18d9f4"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -796,6 +818,19 @@
     "P2-reference/reading-toolkit-part-7.md": {
       "unit": "p2-reading-toolkit",
       "sha256": "97c3c79e349d4bfb3a15ea9644ab5718439d66118f32c6bf7afc8deb9aab4dc2",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566559998215987303"
+    },
+    "P2-reference/error-log-template.md": {
+      "unit": "p2-error-log",
+      "sha256": "34adbe7c68af49d531e853d31650add47b5b2d5a2490df9f673aa544bd18d9f4",
       "bands": [
         "B1",
         "B2",
