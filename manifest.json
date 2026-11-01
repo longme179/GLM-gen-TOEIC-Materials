@@ -1117,6 +1117,28 @@
           "sha256": "bdcd80b145e53591b3c6d77684f5773519300f1bc3248ff1be0123c2ad24c881"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566564282165104812",
+      "committed": true,
+      "posted_at": "2026-11-01 21:27 UTC"
+    },
+    "p3-day-28": {
+      "phase": 3,
+      "order": 52,
+      "title": "P3 · Day 28 — Test 3 Autopsy & Final Error-Log Pass",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P3-daily-plan/day-28.md",
+          "sha256": "32aeaafba5d633a129f72c9f345b7e64ff517f6ece3beb182cdf595eea084af0"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -1776,6 +1798,19 @@
     "P3-daily-plan/day-27.md": {
       "unit": "p3-day-27",
       "sha256": "bdcd80b145e53591b3c6d77684f5773519300f1bc3248ff1be0123c2ad24c881",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566564282165104812"
+    },
+    "P3-daily-plan/day-28.md": {
+      "unit": "p3-day-28",
+      "sha256": "32aeaafba5d633a129f72c9f345b7e64ff517f6ece3beb182cdf595eea084af0",
       "bands": [
         "B1",
         "B2",
