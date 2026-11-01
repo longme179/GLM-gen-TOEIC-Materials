@@ -985,6 +985,28 @@
           "sha256": "a521b21c08141effd288e1d3ae0f673588e9a2dc311015e60936b1641f9c126e"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566564163046871141",
+      "committed": true,
+      "posted_at": "2026-11-01 21:26 UTC"
+    },
+    "p3-day-22": {
+      "phase": 3,
+      "order": 46,
+      "title": "P3 · Day 22 — Part 7 IV: The Hard Types",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P3-daily-plan/day-22.md",
+          "sha256": "c7afc5977d7a9cc7cf8d7a9883dbfac73c053c0f4db59e48928e9b63b43949eb"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -1566,6 +1588,19 @@
     "P3-daily-plan/day-21.md": {
       "unit": "p3-day-21",
       "sha256": "a521b21c08141effd288e1d3ae0f673588e9a2dc311015e60936b1641f9c126e",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566564163046871141"
+    },
+    "P3-daily-plan/day-22.md": {
+      "unit": "p3-day-22",
+      "sha256": "c7afc5977d7a9cc7cf8d7a9883dbfac73c053c0f4db59e48928e9b63b43949eb",
       "bands": [
         "B1",
         "B2",
