@@ -765,6 +765,28 @@
           "sha256": "38cc14d0e722b5af061c3cbcf9c9d8cdcc0d3d31695041d7e7cfa60e4575795e"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566563958368772298",
+      "committed": true,
+      "posted_at": "2026-11-01 21:25 UTC"
+    },
+    "p3-day-12": {
+      "phase": 3,
+      "order": 36,
+      "title": "P3 · Day 12 — Part 4: Talk Types & Note Targets",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P3-daily-plan/day-12.md",
+          "sha256": "ec04ac69fe61997efd7e9f86289ed3a2e7d87cc539520ad2a3cd72900d65f6ee"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -1216,6 +1238,19 @@
     "P3-daily-plan/day-11.md": {
       "unit": "p3-day-11",
       "sha256": "38cc14d0e722b5af061c3cbcf9c9d8cdcc0d3d31695041d7e7cfa60e4575795e",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566563958368772298"
+    },
+    "P3-daily-plan/day-12.md": {
+      "unit": "p3-day-12",
+      "sha256": "ec04ac69fe61997efd7e9f86289ed3a2e7d87cc539520ad2a3cd72900d65f6ee",
       "bands": [
         "B1",
         "B2",
