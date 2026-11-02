@@ -1564,6 +1564,24 @@
           "sha256": "5ad825e5186764efdd4f0186a3c2454da8e73f830278090d2cea8724b67bd818"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566690036106403840",
+      "committed": true,
+      "posted_at": "2026-11-02 05:46 UTC"
+    },
+    "p6-script-02": {
+      "phase": 6,
+      "order": 71,
+      "title": "P6 · Script 02 — Lunch Near the Office (B1)",
+      "bands": [
+        "B1"
+      ],
+      "files": [
+        {
+          "path": "P6-freetime/script-02-lunch-near-the-office.md",
+          "sha256": "acf6afe3b707d93ec24c33e22b86ffa100dec0a0e824b60484e5791ee3577501"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -2551,6 +2569,15 @@
       "bands": [
         "B1",
         "B2"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566690036106403840"
+    },
+    "P6-freetime/script-02-lunch-near-the-office.md": {
+      "unit": "p6-script-02",
+      "sha256": "acf6afe3b707d93ec24c33e22b86ffa100dec0a0e824b60484e5791ee3577501",
+      "bands": [
+        "B1"
       ],
       "pushed": false,
       "discord_message_id": null
