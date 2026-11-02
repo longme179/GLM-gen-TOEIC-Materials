@@ -1859,6 +1859,24 @@
           "sha256": "4eca6681e4ea20319ab1e2233b8116032e35acbc34c8d62815be3bbe64cc71ac"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566690375400300635",
+      "committed": true,
+      "posted_at": "2026-11-02 05:48 UTC"
+    },
+    "p6-script-18": {
+      "phase": 6,
+      "order": 87,
+      "title": "P6 · Script 18 — The Startup Pitch (B5)",
+      "bands": [
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P6-freetime/script-18-startup-pitch.md",
+          "sha256": "382e81ee5c3814a122adc402521cd14fd44fe36b298cd7a16444a227c05a5e2e"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -2997,6 +3015,15 @@
       "bands": [
         "B3",
         "B4"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566690375400300635"
+    },
+    "P6-freetime/script-18-startup-pitch.md": {
+      "unit": "p6-script-18",
+      "sha256": "382e81ee5c3814a122adc402521cd14fd44fe36b298cd7a16444a227c05a5e2e",
+      "bands": [
+        "B5"
       ],
       "pushed": false,
       "discord_message_id": null

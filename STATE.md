@@ -5,8 +5,8 @@
 > manifest.json, and resumes at the next unit. Never force-push or rewrite history.
 
 - **Phase:** P6 free-time materials
-- **Last completed unit:** p6-script-17
-- **Next unit:** p6-script-18
+- **Last completed unit:** p6-script-18
+- **Next unit:** p6-script-19
 - **Last update:** 2026-11-02 05:48 UTC
 
 Phases: P1 orientation → P2 reference → P3 daily plan (30 days) → P4 practice (drills + 3 full tests) → P5 expansion → P6 free-time listening.
