@@ -1619,6 +1619,25 @@
           "sha256": "7226d9c25d33619484c557deebd73f78fb39c4337a2a40971aa8cfe4f8063a3c"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566690097301033001",
+      "committed": true,
+      "posted_at": "2026-11-02 05:47 UTC"
+    },
+    "p6-script-05": {
+      "phase": 6,
+      "order": 74,
+      "title": "P6 · Script 05 — Break-Room Small Talk (B1–B2)",
+      "bands": [
+        "B1",
+        "B2"
+      ],
+      "files": [
+        {
+          "path": "P6-freetime/script-05-break-room-small-talk.md",
+          "sha256": "69c566f53fe331fa3de6a18fcce5d8c57b1791e6965e2fe5e725bcda29816e47"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -2633,6 +2652,16 @@
       "unit": "p6-script-04",
       "sha256": "7226d9c25d33619484c557deebd73f78fb39c4337a2a40971aa8cfe4f8063a3c",
       "bands": [
+        "B2"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566690097301033001"
+    },
+    "P6-freetime/script-05-break-room-small-talk.md": {
+      "unit": "p6-script-05",
+      "sha256": "69c566f53fe331fa3de6a18fcce5d8c57b1791e6965e2fe5e725bcda29816e47",
+      "bands": [
+        "B1",
         "B2"
       ],
       "pushed": false,
