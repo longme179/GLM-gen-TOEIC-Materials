@@ -17,8 +17,9 @@ questions: 0
 - Every day ends with the Miss Loop review step: cold redos of yesterday's misses + logging today's.
 - **T = full-test day.** The 200-question test takes about 2 hours, which breaks the 45–90 minute rule — that is why each test day offers the split option: Listening today, Reading tomorrow morning, before starting the next day.
 - Days are sequenced learn → drill → review; the review days (5, 14, 18, 25) are load-bearing. If you fall behind, cut drill volume, never the review days.
+- **Free time (optional, 10–20 min):** `P6-freetime` maps one audio-ready listening script to every day of this calendar — for commutes, chores, and queues, instead of scrolling. See `P6-freetime/README.md`.
 
-*VI: Cách đọc lịch: "Focus" là kỹ năng chính của ngày; "Materials" là các tài liệu sẽ dùng. Mỗi ngày kết thúc bằng bước ôn tập Miss Loop. "T" = ngày thi full (khoảng 2 giờ, có phương án chia đôi Listening hôm nay / Reading sáng mai). Nếu tụt tiến độ, hãy cắt khối lượng drill, tuyệt đối không cắt các ngày ôn tập 5-14-18-25.*
+*VI: Cách đọc lịch: "Focus" là kỹ năng chính của ngày; "Materials" là các tài liệu sẽ dùng. Mỗi ngày kết thúc bằng bước ôn tập Miss Loop. "T" = ngày thi full (khoảng 2 giờ, có phương án chia đôi Listening hôm nay / Reading sáng mai). Nếu tụt tiến độ, hãy cắt khối lượng drill, tuyệt đối không cắt các ngày ôn tập 5-14-18-25. Thời gian rảnh (tùy chọn, 10–20 phút): mỗi ngày có một kịch bản nghe tương ứng trong P6-freetime — thay cho việc lướt mạng xã hội; xem `P6-freetime/README.md`.*
 
 ## The route
 

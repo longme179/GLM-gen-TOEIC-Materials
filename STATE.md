@@ -4,12 +4,12 @@
 > The repo is the durable memory: a fresh session clones/pulls, reads this file plus
 > manifest.json, and resumes at the next unit. Never force-push or rewrite history.
 
-- **Phase:** COMPLETE (P1-P5 all delivered)
-- **Last completed unit:** p5-checklist
-- **Next unit:** none - course complete; a future session could add TTS audio from the script files (see D3)
-- **Last update:** 2026-11-01 22:31 UTC
+- **Phase:** P6 free-time materials
+- **Last completed unit:** p6-guide
+- **Next unit:** p6-script-01
+- **Last update:** 2026-11-02 05:46 UTC
 
-Phases: P1 orientation → P2 reference → P3 daily plan (30 days) → P4 practice (drills + 3 full tests) → P5 expansion.
+Phases: P1 orientation → P2 reference → P3 daily plan (30 days) → P4 practice (drills + 3 full tests) → P5 expansion → P6 free-time listening.
 
 ## Open issues
 - none
@@ -26,6 +26,8 @@ Phases: P1 orientation → P2 reference → P3 daily plan (30 days) → P4 pract
 - **D6 — PDF attachments:** Discord attachments are PDFs (pandoc + weasyprint, verified to render Vietnamese diacritics with embedded DejaVu fonts). The .md files are always the canonical committed source in the repo.
 - **D7 — What gets posted:** README.md and FORMAT.md are posted to Discord as learner-facing units; STATE.md and manifest.json are build bookkeeping, committed but not posted.
 - **D8 — Originals mirror verified format:** Part 3 uses 2- and 3-speaker conversations; Part 7 uses 10 single passages (29 Q) + 5 linked multi-passage sets (25 Q). Exact mixes vary on real forms; recorded in FORMAT.md as a course choice, not an ETS guarantee.
+- **D9 — Free-time materials (P6), added on user request 2026-11-02:** P6-freetime ships 20 audio-ready listening scripts graded B1-B5 across TOEIC vocabulary domains (covering the whole 10-990 score range), for listening during free time instead of social-media scrolling. Delivered as text scripts plus a conversion/habit guide, consistent with D3 (no audio files shipped); MP3 generation from the scripts is offered on request as a follow-up.
+- **D10 — P6 integration scope:** The P6 section ships with an updated root README and a one-line free-time pointer added to the 30-day calendar; both are re-announced in the p6-guide message. The 30 daily-plan files are intentionally left untouched (already delivered); the day-to-script mapping lives in P6-freetime/README.md.
 
 ## Session notes
 - Preflight 2026-11-02: git ls-remote OK with GIT_ASKPASS helper (repo was empty -> initialized main).
@@ -33,3 +35,5 @@ Phases: P1 orientation → P2 reference → P3 daily plan (30 days) → P4 pract
 - Preflight 2026-11-02: pandoc 3.1.11.1 + weasyprint + tectonic present; PDF pipeline verified with Vietnamese sample (DejaVu embedded). requests available. espeak/espeak-ng present (see D3). Web search available.
 - Format verification 2026-11-02: part-level counts and timings from IIBC official page (see FORMAT.md sources); ETS corporate page confirmed 2x100 sections via search retrieval.
 - Course complete 2026-11-02: 68 units, 72 content files + README + FORMAT, 1594 questions, all committed, pushed and posted to Discord. No shortfalls within the P1-P5 scope.
+- Preflight re-verified 2026-11-02 (new session): git ls-remote OK via GIT_ASKPASS; webhook test posted (message 1566680133715365952); weasyprint 68.0 present; core.fileMode set to false to ignore a sandbox permission-bit change on 77 tracked files (no content diff).
+- P6 free-time section added 2026-11-02 after user request: 20 audio-ready scripts + guide (units p6-guide, p6-script-01..p6-script-20).

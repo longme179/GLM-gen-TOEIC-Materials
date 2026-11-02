@@ -1519,12 +1519,11 @@
       "discord_message_id": "1566580225544945818",
       "committed": true,
       "posted_at": "2026-11-01 22:30 UTC"
-    }
-  },
-  "files": {
-    "README.md": {
-      "unit": "readme",
-      "sha256": "781da44fb27501f927b074a5374add48c3b18a562df149ab0b52848a1da4e735",
+    },
+    "p6-guide": {
+      "phase": 6,
+      "order": 69,
+      "title": "P6 · Free-Time Listening — Guide + Updated Course Map",
       "bands": [
         "B1",
         "B2",
@@ -1532,8 +1531,38 @@
         "B4",
         "B5"
       ],
-      "pushed": true,
-      "discord_message_id": "1566547535466594395"
+      "files": [
+        {
+          "path": "P6-freetime/README.md",
+          "sha256": "d48b9ba5d6ef6016ff9cf529728e8ce14dbeb93af64847de374f61b9ad9f9fcd"
+        },
+        {
+          "path": "README.md",
+          "sha256": "767dbde8e737c061ff187b09fca8bf1ed10083d1b26de5d2f565ff36d799ee0c"
+        },
+        {
+          "path": "P1-orientation/02-thirty-day-calendar.md",
+          "sha256": "c1a852ebd8888f08cf2464e8be6933fb5accde7e589758ba5edf6449169f7d17"
+        }
+      ],
+      "pushed": false,
+      "discord_message_id": null,
+      "committed": false
+    }
+  },
+  "files": {
+    "README.md": {
+      "unit": "p6-guide",
+      "sha256": "767dbde8e737c061ff187b09fca8bf1ed10083d1b26de5d2f565ff36d799ee0c",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": false,
+      "discord_message_id": null
     },
     "FORMAT.md": {
       "unit": "format",
@@ -1601,8 +1630,8 @@
       "discord_message_id": "1566554387625676811"
     },
     "P1-orientation/02-thirty-day-calendar.md": {
-      "unit": "p1-calendar",
-      "sha256": "aa9ce11f1cc8693127855a312ef536bcaa97e14ce6705cbed97d914252574bf5",
+      "unit": "p6-guide",
+      "sha256": "c1a852ebd8888f08cf2464e8be6933fb5accde7e589758ba5edf6449169f7d17",
       "bands": [
         "B1",
         "B2",
@@ -1610,8 +1639,8 @@
         "B4",
         "B5"
       ],
-      "pushed": true,
-      "discord_message_id": "1566554409104580829"
+      "pushed": false,
+      "discord_message_id": null
     },
     "P1-orientation/03-diagnostic-mini-test.md": {
       "unit": "p1-diagnostic",
@@ -2483,6 +2512,19 @@
       ],
       "pushed": true,
       "discord_message_id": "1566580225544945818"
+    },
+    "P6-freetime/README.md": {
+      "unit": "p6-guide",
+      "sha256": "d48b9ba5d6ef6016ff9cf529728e8ce14dbeb93af64847de374f61b9ad9f9fcd",
+      "bands": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "pushed": false,
+      "discord_message_id": null
     }
   }
 }

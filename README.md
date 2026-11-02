@@ -37,6 +37,7 @@ This repository is a complete self-study course: orientation, reference sheets, 
 4. **`P1-orientation/03-diagnostic-mini-test.md`** (+ its key) — 50 questions to place your band.
 5. **`P1-orientation/02-thirty-day-calendar.md`** — your 30-day route.
 6. Then follow `P3-daily-plan/day-01.md` → `day-30.md`, opening the reference and practice files each day points to.
+7. **Any dead time:** open `P6-freetime/README.md` — 20 audio-ready listening scripts mapped to every day of the calendar, for commutes, chores, and queues.
 
 ## Repository map
 
@@ -81,6 +82,12 @@ This repository is a complete self-study course: orientation, reference sheets, 
 | `P5-expansion/final-week-consolidation.md` | How to compress the whole course in the last week |
 | `P5-expansion/test-day-checklist.md` | Logistics, pacing, and recovery protocols for the real test day |
 
+### P6 — Free-time listening (21 files)
+| File | What it gives you |
+|---|---|
+| `P6-freetime/README.md` | How to turn scripts into audio/podcast episodes, the three-pass listen, habit design, and the day-by-day script mapping |
+| `P6-freetime/script-01-first-week-at-the-office.md` … `script-20-year-end-awards-ceremony.md` | 20 original audio-ready scripts graded B1→B5 — workplace stories, calls, meetings, and talks full of TOEIC-range vocabulary |
+
 ## How this course is delivered
 
 - **GitHub (this repo):** the markdown files are the canonical, always-current source.
@@ -94,6 +101,10 @@ This repository is a complete self-study course: orientation, reference sheets, 
 This course ships **full listening scripts, not audio** (decision D3 in STATE.md). Every listening item can be used three ways, explained inside each file: (1) a partner reads the script aloud using the pause marks; (2) you paste each script block into any text-to-speech app or online reader; (3) you read the script yourself for technique study after attempting the items cold. Part 1 uses written "scene cards" in place of photographs (decision D2).
 
 *VI: Khóa học cung cấp kịch bản nghe đầy đủ thay vì file âm thanh. Mỗi bài nghe có thể dùng theo ba cách: nhờ người đọc theo dấu ngắt, dán kịch bản vào ứng dụng đọc văn bản (TTS), hoặc tự đọc để nghiên cứu kỹ thuật sau khi đã làm bài. Part 1 dùng "thẻ mô tả cảnh" thay cho ảnh.*
+
+For free time — commutes, chores, waiting rooms — `P6-freetime` adds 20 graded, audio-ready scripts (workplace stories, calls, meetings, talks) plus a guide for turning them into podcast-style audio and building a daily listening habit.
+
+*VI: Riêng thời gian rảnh — đi lại, việc nhà, lúc xếp hàng — P6-freetime bổ sung 20 kịch bản nghe theo cấp độ (chuyện văn phòng, cuộc gọi, cuộc họp, bài nói) kèm hướng dẫn chuyển thành audio kiểu podcast và xây thói quen nghe hằng ngày.*
 
 ## Conventions used in every handout
 
