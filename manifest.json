@@ -1545,6 +1545,25 @@
           "sha256": "c1a852ebd8888f08cf2464e8be6933fb5accde7e589758ba5edf6449169f7d17"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566690013775798282",
+      "committed": true,
+      "posted_at": "2026-11-02 05:46 UTC"
+    },
+    "p6-script-01": {
+      "phase": 6,
+      "order": 70,
+      "title": "P6 · Script 01 — First Week at the Office (B1)",
+      "bands": [
+        "B1",
+        "B2"
+      ],
+      "files": [
+        {
+          "path": "P6-freetime/script-01-first-week-at-the-office.md",
+          "sha256": "5ad825e5186764efdd4f0186a3c2454da8e73f830278090d2cea8724b67bd818"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -1561,8 +1580,8 @@
         "B4",
         "B5"
       ],
-      "pushed": false,
-      "discord_message_id": null
+      "pushed": true,
+      "discord_message_id": "1566690013775798282"
     },
     "FORMAT.md": {
       "unit": "format",
@@ -1639,8 +1658,8 @@
         "B4",
         "B5"
       ],
-      "pushed": false,
-      "discord_message_id": null
+      "pushed": true,
+      "discord_message_id": "1566690013775798282"
     },
     "P1-orientation/03-diagnostic-mini-test.md": {
       "unit": "p1-diagnostic",
@@ -2522,6 +2541,16 @@
         "B3",
         "B4",
         "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566690013775798282"
+    },
+    "P6-freetime/script-01-first-week-at-the-office.md": {
+      "unit": "p6-script-01",
+      "sha256": "5ad825e5186764efdd4f0186a3c2454da8e73f830278090d2cea8724b67bd818",
+      "bands": [
+        "B1",
+        "B2"
       ],
       "pushed": false,
       "discord_message_id": null
