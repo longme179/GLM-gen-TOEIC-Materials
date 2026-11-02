@@ -1656,6 +1656,24 @@
           "sha256": "a5e60eb0fba3aa7c258385d50ade802783813e30ed09938375572583d7d37f57"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566690138870906992",
+      "committed": true,
+      "posted_at": "2026-11-02 05:47 UTC"
+    },
+    "p6-script-07": {
+      "phase": 6,
+      "order": 76,
+      "title": "P6 · Script 07 — Booking the Hotel (B2)",
+      "bands": [
+        "B2"
+      ],
+      "files": [
+        {
+          "path": "P6-freetime/script-07-hotel-booking.md",
+          "sha256": "aa1d5dfc6e68506e8cba5e1913208c5129a7a3e65305f36180ca57f8c004fdd6"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -2688,6 +2706,15 @@
     "P6-freetime/script-06-laptop-problem.md": {
       "unit": "p6-script-06",
       "sha256": "a5e60eb0fba3aa7c258385d50ade802783813e30ed09938375572583d7d37f57",
+      "bands": [
+        "B2"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566690138870906992"
+    },
+    "P6-freetime/script-07-hotel-booking.md": {
+      "unit": "p6-script-07",
+      "sha256": "aa1d5dfc6e68506e8cba5e1913208c5129a7a3e65305f36180ca57f8c004fdd6",
       "bands": [
         "B2"
       ],
