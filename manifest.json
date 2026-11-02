@@ -1674,6 +1674,25 @@
           "sha256": "aa1d5dfc6e68506e8cba5e1913208c5129a7a3e65305f36180ca57f8c004fdd6"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566690158546260009",
+      "committed": true,
+      "posted_at": "2026-11-02 05:47 UTC"
+    },
+    "p6-script-08": {
+      "phase": 6,
+      "order": 77,
+      "title": "P6 · Script 08 — The Shipping Delay (B2–B3)",
+      "bands": [
+        "B2",
+        "B3"
+      ],
+      "files": [
+        {
+          "path": "P6-freetime/script-08-shipping-delay.md",
+          "sha256": "09c2aa3a072b33de4f61cd62bd019f3d4589869dc779df5c41a5bca86acf19a1"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -2717,6 +2736,16 @@
       "sha256": "aa1d5dfc6e68506e8cba5e1913208c5129a7a3e65305f36180ca57f8c004fdd6",
       "bands": [
         "B2"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566690158546260009"
+    },
+    "P6-freetime/script-08-shipping-delay.md": {
+      "unit": "p6-script-08",
+      "sha256": "09c2aa3a072b33de4f61cd62bd019f3d4589869dc779df5c41a5bca86acf19a1",
+      "bands": [
+        "B2",
+        "B3"
       ],
       "pushed": false,
       "discord_message_id": null
