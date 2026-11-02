@@ -1582,6 +1582,25 @@
           "sha256": "acf6afe3b707d93ec24c33e22b86ffa100dec0a0e824b60484e5791ee3577501"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566690056431870046",
+      "committed": true,
+      "posted_at": "2026-11-02 05:46 UTC"
+    },
+    "p6-script-03": {
+      "phase": 6,
+      "order": 72,
+      "title": "P6 · Script 03 — Rescheduling a Meeting (B1–B2)",
+      "bands": [
+        "B1",
+        "B2"
+      ],
+      "files": [
+        {
+          "path": "P6-freetime/script-03-rescheduling-a-meeting.md",
+          "sha256": "8aa4533d44061f3ddd93550deb1cf2424c57fd427ac2626b4fab616b9a2c7048"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -2578,6 +2597,16 @@
       "sha256": "acf6afe3b707d93ec24c33e22b86ffa100dec0a0e824b60484e5791ee3577501",
       "bands": [
         "B1"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566690056431870046"
+    },
+    "P6-freetime/script-03-rescheduling-a-meeting.md": {
+      "unit": "p6-script-03",
+      "sha256": "8aa4533d44061f3ddd93550deb1cf2424c57fd427ac2626b4fab616b9a2c7048",
+      "bands": [
+        "B1",
+        "B2"
       ],
       "pushed": false,
       "discord_message_id": null
