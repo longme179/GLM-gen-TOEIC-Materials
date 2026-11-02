@@ -1896,6 +1896,25 @@
           "sha256": "f21fe45346daee6fab561993783d7d981cbf6c9fe46f53fb44966a5f35c7ddd8"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566690416764526702",
+      "committed": true,
+      "posted_at": "2026-11-02 05:48 UTC"
+    },
+    "p6-script-20": {
+      "phase": 6,
+      "order": 89,
+      "title": "P6 · Script 20 — The Year-End Awards Ceremony (B4–B5)",
+      "bands": [
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P6-freetime/script-20-year-end-awards-ceremony.md",
+          "sha256": "123bf9de2791a1b20dd6a11914fa5d0b209192e435426d86505e2fa5be46f978"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -3050,6 +3069,16 @@
     "P6-freetime/script-19-remote-work-podcast.md": {
       "unit": "p6-script-19",
       "sha256": "f21fe45346daee6fab561993783d7d981cbf6c9fe46f53fb44966a5f35c7ddd8",
+      "bands": [
+        "B4",
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566690416764526702"
+    },
+    "P6-freetime/script-20-year-end-awards-ceremony.md": {
+      "unit": "p6-script-20",
+      "sha256": "123bf9de2791a1b20dd6a11914fa5d0b209192e435426d86505e2fa5be46f978",
       "bands": [
         "B4",
         "B5"
