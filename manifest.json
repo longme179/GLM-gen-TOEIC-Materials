@@ -1767,6 +1767,24 @@
           "sha256": "a0c9022a11ed0c0a2ba3440bd9cfcc526e9f7b47d2bd6842e7df77ba8446b10b"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566690268235956357",
+      "committed": true,
+      "posted_at": "2026-11-02 05:47 UTC"
+    },
+    "p6-script-13": {
+      "phase": 6,
+      "order": 82,
+      "title": "P6 · Script 13 — The Quarterly Budget (B4)",
+      "bands": [
+        "B4"
+      ],
+      "files": [
+        {
+          "path": "P6-freetime/script-13-quarterly-budget.md",
+          "sha256": "17e04c98ea1648ed24565fe231e55d1f708801dce683f63e3ea1a7a729e24d8e"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -2858,6 +2876,15 @@
       "bands": [
         "B2",
         "B3"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566690268235956357"
+    },
+    "P6-freetime/script-13-quarterly-budget.md": {
+      "unit": "p6-script-13",
+      "sha256": "17e04c98ea1648ed24565fe231e55d1f708801dce683f63e3ea1a7a729e24d8e",
+      "bands": [
+        "B4"
       ],
       "pushed": false,
       "discord_message_id": null
