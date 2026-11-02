@@ -1638,6 +1638,24 @@
           "sha256": "69c566f53fe331fa3de6a18fcce5d8c57b1791e6965e2fe5e725bcda29816e47"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566690118545440869",
+      "committed": true,
+      "posted_at": "2026-11-02 05:47 UTC"
+    },
+    "p6-script-06": {
+      "phase": 6,
+      "order": 75,
+      "title": "P6 · Script 06 — The Laptop Problem (B2)",
+      "bands": [
+        "B2"
+      ],
+      "files": [
+        {
+          "path": "P6-freetime/script-06-laptop-problem.md",
+          "sha256": "a5e60eb0fba3aa7c258385d50ade802783813e30ed09938375572583d7d37f57"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -2662,6 +2680,15 @@
       "sha256": "69c566f53fe331fa3de6a18fcce5d8c57b1791e6965e2fe5e725bcda29816e47",
       "bands": [
         "B1",
+        "B2"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566690118545440869"
+    },
+    "P6-freetime/script-06-laptop-problem.md": {
+      "unit": "p6-script-06",
+      "sha256": "a5e60eb0fba3aa7c258385d50ade802783813e30ed09938375572583d7d37f57",
+      "bands": [
         "B2"
       ],
       "pushed": false,
