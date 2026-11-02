@@ -4,10 +4,10 @@
 > The repo is the durable memory: a fresh session clones/pulls, reads this file plus
 > manifest.json, and resumes at the next unit. Never force-push or rewrite history.
 
-- **Phase:** P6 free-time materials
+- **Phase:** COMPLETE (P1-P6 all delivered)
 - **Last completed unit:** p6-script-20
-- **Next unit:** course-complete
-- **Last update:** 2026-11-02 05:48 UTC
+- **Next unit:** none - course complete; MP3 audio generation from P6/test scripts available on request (D3/D9)
+- **Last update:** 2026-11-02 05:49 UTC
 
 Phases: P1 orientation → P2 reference → P3 daily plan (30 days) → P4 practice (drills + 3 full tests) → P5 expansion → P6 free-time listening.
 
@@ -37,3 +37,4 @@ Phases: P1 orientation → P2 reference → P3 daily plan (30 days) → P4 pract
 - Course complete 2026-11-02: 68 units, 72 content files + README + FORMAT, 1594 questions, all committed, pushed and posted to Discord. No shortfalls within the P1-P5 scope.
 - Preflight re-verified 2026-11-02 (new session): git ls-remote OK via GIT_ASKPASS; webhook test posted (message 1566680133715365952); weasyprint 68.0 present; core.fileMode set to false to ignore a sandbox permission-bit change on 77 tracked files (no content diff).
 - P6 free-time section added 2026-11-02 after user request: 20 audio-ready scripts + guide (units p6-guide, p6-script-01..p6-script-20).
+- P6 delivered 2026-11-02: 21/21 units committed, pushed, and posted to Discord with 0 failures (first message 1566690013775798282, last 1566690437115281549). Repo totals after P6: 89 units, 95 markdown files, 1674 questions, check.py 95 pass / 0 fail.
