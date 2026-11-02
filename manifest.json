@@ -1822,6 +1822,24 @@
           "sha256": "7a48c7d64c2f2aa98f66b6a1d17d0506b148320173b1e38d00bf78bc84d7e72a"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566690334338060398",
+      "committed": true,
+      "posted_at": "2026-11-02 05:48 UTC"
+    },
+    "p6-script-16": {
+      "phase": 6,
+      "order": 85,
+      "title": "P6 · Script 16 — The Safety Briefing (B3)",
+      "bands": [
+        "B3"
+      ],
+      "files": [
+        {
+          "path": "P6-freetime/script-16-safety-briefing.md",
+          "sha256": "87c8b546c7c96aa22b05aec73f5cbdc63b9b40b017ca203e19a953b3731b7612"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -2941,6 +2959,15 @@
       "sha256": "7a48c7d64c2f2aa98f66b6a1d17d0506b148320173b1e38d00bf78bc84d7e72a",
       "bands": [
         "B4"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566690334338060398"
+    },
+    "P6-freetime/script-16-safety-briefing.md": {
+      "unit": "p6-script-16",
+      "sha256": "87c8b546c7c96aa22b05aec73f5cbdc63b9b40b017ca203e19a953b3731b7612",
+      "bands": [
+        "B3"
       ],
       "pushed": false,
       "discord_message_id": null
