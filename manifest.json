@@ -1877,6 +1877,25 @@
           "sha256": "382e81ee5c3814a122adc402521cd14fd44fe36b298cd7a16444a227c05a5e2e"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566690395709116497",
+      "committed": true,
+      "posted_at": "2026-11-02 05:48 UTC"
+    },
+    "p6-script-19": {
+      "phase": 6,
+      "order": 88,
+      "title": "P6 · Script 19 — Remote Work: A Podcast Episode (B4–B5)",
+      "bands": [
+        "B4",
+        "B5"
+      ],
+      "files": [
+        {
+          "path": "P6-freetime/script-19-remote-work-podcast.md",
+          "sha256": "f21fe45346daee6fab561993783d7d981cbf6c9fe46f53fb44966a5f35c7ddd8"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -3023,6 +3042,16 @@
       "unit": "p6-script-18",
       "sha256": "382e81ee5c3814a122adc402521cd14fd44fe36b298cd7a16444a227c05a5e2e",
       "bands": [
+        "B5"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566690395709116497"
+    },
+    "P6-freetime/script-19-remote-work-podcast.md": {
+      "unit": "p6-script-19",
+      "sha256": "f21fe45346daee6fab561993783d7d981cbf6c9fe46f53fb44966a5f35c7ddd8",
+      "bands": [
+        "B4",
         "B5"
       ],
       "pushed": false,
