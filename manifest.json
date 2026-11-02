@@ -1840,6 +1840,25 @@
           "sha256": "87c8b546c7c96aa22b05aec73f5cbdc63b9b40b017ca203e19a953b3731b7612"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566690354877698129",
+      "committed": true,
+      "posted_at": "2026-11-02 05:48 UTC"
+    },
+    "p6-script-17": {
+      "phase": 6,
+      "order": 86,
+      "title": "P6 · Script 17 — Handling a Complaint (B3–B4)",
+      "bands": [
+        "B3",
+        "B4"
+      ],
+      "files": [
+        {
+          "path": "P6-freetime/script-17-handling-a-complaint.md",
+          "sha256": "4eca6681e4ea20319ab1e2233b8116032e35acbc34c8d62815be3bbe64cc71ac"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -2968,6 +2987,16 @@
       "sha256": "87c8b546c7c96aa22b05aec73f5cbdc63b9b40b017ca203e19a953b3731b7612",
       "bands": [
         "B3"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566690354877698129"
+    },
+    "P6-freetime/script-17-handling-a-complaint.md": {
+      "unit": "p6-script-17",
+      "sha256": "4eca6681e4ea20319ab1e2233b8116032e35acbc34c8d62815be3bbe64cc71ac",
+      "bands": [
+        "B3",
+        "B4"
       ],
       "pushed": false,
       "discord_message_id": null
