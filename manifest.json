@@ -1785,6 +1785,25 @@
           "sha256": "17e04c98ea1648ed24565fe231e55d1f708801dce683f63e3ea1a7a729e24d8e"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566690288506769499",
+      "committed": true,
+      "posted_at": "2026-11-02 05:47 UTC"
+    },
+    "p6-script-14": {
+      "phase": 6,
+      "order": 83,
+      "title": "P6 · Script 14 — The Marketing Debrief (B3–B4)",
+      "bands": [
+        "B3",
+        "B4"
+      ],
+      "files": [
+        {
+          "path": "P6-freetime/script-14-marketing-debrief.md",
+          "sha256": "8a87fcdaaee58be7d6ef2aac085c4fce266c37d5fdf2dbac24b859084204d5c0"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -2884,6 +2903,16 @@
       "unit": "p6-script-13",
       "sha256": "17e04c98ea1648ed24565fe231e55d1f708801dce683f63e3ea1a7a729e24d8e",
       "bands": [
+        "B4"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566690288506769499"
+    },
+    "P6-freetime/script-14-marketing-debrief.md": {
+      "unit": "p6-script-14",
+      "sha256": "8a87fcdaaee58be7d6ef2aac085c4fce266c37d5fdf2dbac24b859084204d5c0",
+      "bands": [
+        "B3",
         "B4"
       ],
       "pushed": false,
