@@ -1693,6 +1693,24 @@
           "sha256": "09c2aa3a072b33de4f61cd62bd019f3d4589869dc779df5c41a5bca86acf19a1"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566690179291287582",
+      "committed": true,
+      "posted_at": "2026-11-02 05:47 UTC"
+    },
+    "p6-script-09": {
+      "phase": 6,
+      "order": 78,
+      "title": "P6 · Script 09 — The Weekly Team Meeting (B3)",
+      "bands": [
+        "B3"
+      ],
+      "files": [
+        {
+          "path": "P6-freetime/script-09-weekly-team-meeting.md",
+          "sha256": "7c1665875b369b0a516dcecc8dc3f00e0d4ab3cde18d531b207b49e079e78118"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -2745,6 +2763,15 @@
       "sha256": "09c2aa3a072b33de4f61cd62bd019f3d4589869dc779df5c41a5bca86acf19a1",
       "bands": [
         "B2",
+        "B3"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566690179291287582"
+    },
+    "P6-freetime/script-09-weekly-team-meeting.md": {
+      "unit": "p6-script-09",
+      "sha256": "7c1665875b369b0a516dcecc8dc3f00e0d4ab3cde18d531b207b49e079e78118",
+      "bands": [
         "B3"
       ],
       "pushed": false,
