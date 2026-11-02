@@ -1730,6 +1730,24 @@
           "sha256": "a0508fda28e37f5ac2163bdbe7ecdeffdbc0ed7a90d61239784458be9a1b4db4"
         }
       ],
+      "pushed": true,
+      "discord_message_id": "1566690220726943785",
+      "committed": true,
+      "posted_at": "2026-11-02 05:47 UTC"
+    },
+    "p6-script-11": {
+      "phase": 6,
+      "order": 80,
+      "title": "P6 · Script 11 — The Performance Review (B3)",
+      "bands": [
+        "B3"
+      ],
+      "files": [
+        {
+          "path": "P6-freetime/script-11-performance-review.md",
+          "sha256": "2a3eb45a0c541f3b498be1c09a2048c2799819713176b8f4651360415d1e7ba0"
+        }
+      ],
       "pushed": false,
       "discord_message_id": null,
       "committed": false
@@ -2801,6 +2819,15 @@
       "sha256": "a0508fda28e37f5ac2163bdbe7ecdeffdbc0ed7a90d61239784458be9a1b4db4",
       "bands": [
         "B2",
+        "B3"
+      ],
+      "pushed": true,
+      "discord_message_id": "1566690220726943785"
+    },
+    "P6-freetime/script-11-performance-review.md": {
+      "unit": "p6-script-11",
+      "sha256": "2a3eb45a0c541f3b498be1c09a2048c2799819713176b8f4651360415d1e7ba0",
+      "bands": [
         "B3"
       ],
       "pushed": false,
